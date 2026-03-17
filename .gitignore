@@ -1,0 +1,14 @@
+MEMORY.md
+memory/
+USER.md
+TOOLS.md
+.env
+.env.*
+node_modules/
+.next/
+dist/
+coverage/
+.DS_Store
+**/*.key
+**/*.pem
+**/secrets*
